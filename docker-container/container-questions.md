@@ -1,12 +1,12 @@
-3. Docker Containers
-How do you create and run a container?
+# Docker Containers
+## 1. How do you create and run a container?
 
-What is the difference between docker run and docker start?
+## 2. What is the difference between docker run and docker start?
 
-How to view running and stopped containers?
+## 3. How to view running and stopped containers?
 
-How to execute commands inside a container?
+## 4. How to execute commands inside a container?
 
-What is the use of -d, -p, --name, and --rm flags?
+## 5. What is the use of -d, -p, --name, and --rm flags?
 
-How to stop and remove a container?
+## 6. How to stop and remove a container?
