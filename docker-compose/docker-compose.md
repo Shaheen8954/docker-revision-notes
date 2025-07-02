@@ -5,15 +5,14 @@
 
 ### Key Benefits of Docker Compose:
 
-Multi-Container Management – Allows easy handling of applications consisting of multiple services.
+**Multi-Container Management** – Allows easy handling of applications consisting of multiple services.
 
-Portability – Ensures applications run consistently across different environments (local, staging, production).
+**Portability** – Ensures applications run consistently across different environments (local, staging, production).
 
-Lifecycle Management – Provides commands to start, stop, and rebuild services efficiently.
+**Lifecycle Management** – Provides commands to start, stop, and rebuild services efficiently.
 
-mically on a server.
 
-Core Functionalities:
+### Core Functionalities:
 
 Works across different environments without modification.
 
@@ -29,19 +28,19 @@ Step 2: Create a docker-compose.yml File
 
 Step 3: Start the application
 
-docker-compose up -d
+`docker-compose up -d`
 
 Step 4: Checking running containers
 
-docker-compose ps
+`docker-compose ps`
 
 Step 5: Stop the application
 
-docker-compose down
+`docker-compose down`
 
 Step 6: Restart or update the application
 
-docker-compose up -d —build
+`docker-compose up -d —build`
 
 ## 2. What is the default file name for a Docker Compose file?
    Docker-compose.yml
@@ -52,9 +51,9 @@ docker-compose up -d —build
 
 In docker compose there are few commands to start, stop, and rebuild containers
 
-docker-compose up = To start container
-docker-compose down = To stop container
-docker-compose up --build = To rebuild the container
+`docker-compose up` = To start container
+`docker-compose down` = To stop container
+`docker-compose up --build` = To rebuild the container
 
 
 ## 5. How to scale services using Compose?
