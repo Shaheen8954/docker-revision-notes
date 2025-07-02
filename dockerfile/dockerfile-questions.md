@@ -1,12 +1,13 @@
-4. Dockerfile
-What is a Dockerfile?
+# Dockerfile
 
-What are the common instructions used in Dockerfile?
+## 1. What is a Dockerfile?
 
-FROM, RUN, COPY, CMD, ENTRYPOINT, etc.
+## 2. What are the common instructions used in Dockerfile?
 
-What is the difference between CMD and ENTRYPOINT?
+## 3. FROM, RUN, COPY, CMD, ENTRYPOINT, etc.
 
-What is a multi-stage build?
+## 4. What is the difference between CMD and ENTRYPOINT?
 
-How to build an image using a Dockerfile?
+## 5. What is a multi-stage build?
+
+## 6.  How to build an image using a Dockerfile?
