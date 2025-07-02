@@ -1,10 +1,15 @@
-5. Docker Networks
-What are the default Docker networks?
+# Docker Networks
 
-How does Docker networking work?
+## 1. What is docker network?
 
-Difference between bridge, host, and none networks?
+Docker network is crucial to communicate between to container or services in a containerised environment,        
 
-How to create a custom bridge network?
+## 2. What are the default Docker networks?
 
-How do containers communicate with each other?
+## 3. How does Docker networking work?
+
+## 4.Difference between bridge, host, and none networks?
+
+## 5. How to create a custom bridge network?
+
+## 6. How do containers communicate with each other?
