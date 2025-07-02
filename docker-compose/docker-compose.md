@@ -44,6 +44,7 @@ Step 6: Restart or update the application
 docker-compose up -d —build
 
 ## 2. What is the default file name for a Docker Compose file?
+   Docker-compose.yml
 
 ## 3. What are services in Docker Compose?
 
